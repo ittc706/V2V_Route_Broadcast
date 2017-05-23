@@ -1,0 +1,31 @@
+﻿  wt.cpp
+e:\车联网项目\程序代码\v2v_route_broadcast\v2v_route_broadcast\wt.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+  vue_physics.cpp
+  vue.cpp
+  tmc.cpp
+  system_control.cpp
+  route_udp.cpp
+e:\车联网项目\程序代码\v2v_route_broadcast\v2v_route_broadcast\route_udp.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+e:\车联网项目\程序代码\v2v_route_broadcast\v2v_route_broadcast\route_udp.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+e:\车联网项目\程序代码\v2v_route_broadcast\v2v_route_broadcast\route_udp.cpp(54): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  route_tcp.cpp
+e:\车联网项目\程序代码\v2v_route_broadcast\v2v_route_broadcast\route_tcp.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+e:\车联网项目\程序代码\v2v_route_broadcast\v2v_route_broadcast\route_tcp.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+e:\车联网项目\程序代码\v2v_route_broadcast\v2v_route_broadcast\route_tcp.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+e:\车联网项目\程序代码\v2v_route_broadcast\v2v_route_broadcast\route_tcp.cpp(305): warning C4018: “<”: 有符号/无符号不匹配
+  object.cpp
+  invoke.cpp
+  context.cpp
+  bean_loader.cpp
+  bean_definition.cpp
+  main.cpp
+  imta.cpp
+  gtt_urban.cpp
+  gtt_highspeed.cpp
+  正在生成代码...
+imta.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_execute，该符号在函数 "public: void __thiscall imta::calculate(double *,double,double *,double *,double *,double *,double *)" (?calculate@imta@@QAEXPANN00000@Z) 中被引用
+imta.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_plan_dft_1d，该符号在函数 "public: void __thiscall imta::calculate(double *,double,double *,double *,double *,double *,double *)" (?calculate@imta@@QAEXPANN00000@Z) 中被引用
+imta.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_destroy_plan，该符号在函数 "public: void __thiscall imta::calculate(double *,double,double *,double *,double *,double *,double *)" (?calculate@imta@@QAEXPANN00000@Z) 中被引用
+imta.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_malloc，该符号在函数 "public: void __thiscall imta::calculate(double *,double,double *,double *,double *,double *,double *)" (?calculate@imta@@QAEXPANN00000@Z) 中被引用
+imta.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_free，该符号在函数 "public: void __thiscall imta::calculate(double *,double,double *,double *,double *,double *,double *)" (?calculate@imta@@QAEXPANN00000@Z) 中被引用
+E:\车联网项目\程序代码\V2V_Route_Broadcast\Debug\V2V_Route_Broadcast.exe : fatal error LNK1120: 5 个无法解析的外部命令
